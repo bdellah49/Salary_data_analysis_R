@@ -1,4 +1,4 @@
-dataset=read.csv(./Salary_Data.csv")
+dataset=read.csv("./Salary_Data.csv")
 print(dataset)
 #install.packages("caTools")
 library(caTools)
